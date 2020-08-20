@@ -12,7 +12,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">  <!-- Necessary for Bootstrap -->
   <!--To add a favicon, i.e. image in title bar, we have the following two lines of code-->
   <title>&#2360;&#x094D;&#2357;&#x093E;&#x0926; on Wheels</title>
-    <link rel='shortcut icon' type='image/x-icon' href='swadonwheels.png' />
+    <link rel='shortcut icon' type='image/x-icon' href='images/swadonwheels.png' />
 
   <!--For bootsrap including CDN-->
         <!-- Latest compiled and minified CSS -->
@@ -73,7 +73,7 @@ tr:nth-child(odd){
   <nav class="navbar navbar-expand-md navbar-dark bg-secondary sticky-top">
     
    <div class="container-fluid">  <!--This is for 100% width -->
-    <a class="navbar-brand" href="#" style="float: left;"><img src="swadonwheels.png" width=90px height=90px></a>
+    <a class="navbar-brand" href="#" style="float: left;"><img src="images/swadonwheels.png" width=90px height=90px></a>
     <h1 class="display-3 text-warning " style="padding-left: 110px; position: absolute;"><b>&#2360;&#x094D;&#2357;&#x093E;&#x0926;</b><em> on Wheels </em></h1>
     <div class="text-right">
 

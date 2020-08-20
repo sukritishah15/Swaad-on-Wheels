@@ -15,13 +15,13 @@
 
 		<div class="carousel-inner">
 			<div class="carousel-item active">
-				<img src="i1.jpg">
+				<img src="images/i1.jpg">
 			</div>
 			<div class="carousel-item">
-				<img src="i2.jpg">
+				<img src="images/i2.jpg">
 			</div>
 			<div class="carousel-item">
-				<img src="i3.jpg">
+				<img src="images/i3.jpg">
 			</div>
 		</div>
 

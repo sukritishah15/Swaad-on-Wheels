@@ -14,7 +14,7 @@
 
 	<!--To add a favicon, i.e. image in title bar, we have the following two lines of code-->
 	<title>&#2360;&#x094D;&#2357;&#x093E;&#x0926; on Wheels</title>
-    <link rel='shortcut icon' type='image/x-icon' href='swadonwheels.png' />
+    <link rel='shortcut icon' type='image/x-icon' href='images/swadonwheels.png' />
 
 	<!--For bootsrap including CDN-->
 				<!-- Latest compiled and minified CSS -->
@@ -203,7 +203,7 @@
 			bg-secondary makes the background color grey
 		-->
 	 <div class="container-fluid">  <!--This is for 100% width -->
-	 	<a class="navbar-brand" href="#" style="float: left;"><img src="swadonwheels.png" width=90px height=90px></a>
+	 	<a class="navbar-brand" href="#" style="float: left;"><img src="images/swadonwheels.png" width=90px height=90px></a>
 	 	<h1 class="display-3 text-warning " style="padding-left: 110px; position: absolute;"><b>&#2360;&#x094D;&#2357;&#x093E;&#x0926;</b><em> on Wheels </em></h1>
 	 	<div class="text-right">
 	 		<button type="button" class="btn btn-outline-warning btn-lg" onclick="document.getElementById('id01').style.display='block'" style="width:auto;">Login</button>
@@ -213,7 +213,7 @@
   <form name=f1 class="modal-content animate" method="post">
     <div class="imgcontainer">
       <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">&times;</span>
-      <img src="img_avataro.png" alt="Avatar" class="avatar" width=120 height=90>
+      <img src="images/img_avataro.png" alt="Avatar" class="avatar" width=120 height=90>
     </div>
 
     <div class="container">
@@ -289,7 +289,7 @@ window.onclick = function(event) {
   <form name=f2 class="modal-content-s animate" method="post">
     <div class="imgcontainer">
       <span onclick="document.getElementById('id02').style.display='none'" class="close" title="Close Modal">&times;</span>
-      <img src="img_avataro.png" alt="Avatar" class="avatar" width=120 height=120>
+      <img src="images/img_avataro.png" alt="Avatar" class="avatar" width=120 height=120>
     </div>
 
     <div class="container">
